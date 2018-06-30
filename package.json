@@ -1,5 +1,7 @@
 {
   "name": "star_wars_api",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
